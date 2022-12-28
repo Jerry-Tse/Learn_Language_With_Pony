@@ -4,12 +4,9 @@
 
 <br></br>
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/35249776/209759695-a5b84563-f94e-45f0-8a5d-7551371e7c7c.mp4" width=250/>
+  <video src="https://user-images.githubusercontent.com/35249776/209759695-a5b84563-f94e-45f0-8a5d-7551371e7c7c.mp4" width=250/></video>
 <p/>
 <br></br>
-
-
-
 
 
 ## Method
